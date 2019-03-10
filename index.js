@@ -1,3 +1,3 @@
-import * as wasm from "hello-wasm-pack";
+import * as wasm from "my-wasm-module";
 
 wasm.greet();
