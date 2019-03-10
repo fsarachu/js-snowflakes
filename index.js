@@ -1,3 +1,3 @@
-import * as wasm from "my-wasm-module";
+import { greet } from "my-wasm-module";
 
-wasm.greet();
+greet('Frankito');
