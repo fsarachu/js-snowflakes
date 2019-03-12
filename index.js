@@ -1,4 +1,4 @@
-import { Snowflake } from "my-wasm-module";
+import { Snowflake } from "wasm-snowflakes";
 
 const canvas = document.createElement('canvas');
 const context = canvas.getContext('2d');
