@@ -1,4 +1,9 @@
-# `create-wasm-app`
+# JS Snowflakes ❄️
+Another JS + Rust + WebAssembly version of [❄️ Let's make some SNOW!](https://www.youtube.com/watch?v=VW8qoyYzWGg)
+
+To run this locally follow build steps for the [WebAssembly code](https://github.com/fsarachu/wasm-snowflakes) and link module locally using [yarn link](https://yarnpkg.com/lang/en/docs/cli/link/)
+
+## Initialized with `create-wasm-app`
 
 > An `npm init` template for kick starting a project that uses NPM packages
 > containing Rust-generated WebAssembly and bundles them with Webpack.
