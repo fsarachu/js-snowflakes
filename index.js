@@ -4,7 +4,7 @@ const canvas = document.createElement('canvas');
 const context = canvas.getContext('2d');
 document.body.appendChild(canvas);
 
-const flakesCount = 1000;
+const flakesCount = 4000;
 const snowflakes = [];
 
 for(let s = 0; s < flakesCount; s++) {
